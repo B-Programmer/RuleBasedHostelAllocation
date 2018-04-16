@@ -1,0 +1,15 @@
+C:\B Programmer\C#\RuleBasedHostelAllocation\RuleBasedHostelAllocation\obj\x86\Debug\RuleBasedHostelAllocation.csprojResolveAssemblyReference.cache
+C:\B Programmer\C#\RuleBasedHostelAllocation\RuleBasedHostelAllocation\obj\x86\Debug\RuleBasedHostelAllocation.AboutApp.resources
+C:\B Programmer\C#\RuleBasedHostelAllocation\RuleBasedHostelAllocation\obj\x86\Debug\RuleBasedHostelAllocation.AddHostelDetails.resources
+C:\B Programmer\C#\RuleBasedHostelAllocation\RuleBasedHostelAllocation\obj\x86\Debug\RuleBasedHostelAllocation.FrmAddNewHostel.resources
+C:\B Programmer\C#\RuleBasedHostelAllocation\RuleBasedHostelAllocation\obj\x86\Debug\RuleBasedHostelAllocation.frmSplash.resources
+C:\B Programmer\C#\RuleBasedHostelAllocation\RuleBasedHostelAllocation\obj\x86\Debug\RuleBasedHostelAllocation.FrmStudentDetails.resources
+C:\B Programmer\C#\RuleBasedHostelAllocation\RuleBasedHostelAllocation\obj\x86\Debug\RuleBasedHostelAllocation.FrmStudentHostel.resources
+C:\B Programmer\C#\RuleBasedHostelAllocation\RuleBasedHostelAllocation\obj\x86\Debug\RuleBasedHostelAllocation.FrmUserType.resources
+C:\B Programmer\C#\RuleBasedHostelAllocation\RuleBasedHostelAllocation\obj\x86\Debug\RuleBasedHostelAllocation.MDIRuleBased.resources
+C:\B Programmer\C#\RuleBasedHostelAllocation\RuleBasedHostelAllocation\obj\x86\Debug\RuleBasedHostelAllocation.Properties.Resources.resources
+C:\B Programmer\C#\RuleBasedHostelAllocation\RuleBasedHostelAllocation\obj\x86\Debug\RuleBasedHostelAllocation.csproj.GenerateResource.Cache
+C:\B Programmer\C#\RuleBasedHostelAllocation\RuleBasedHostelAllocation\bin\Debug\RuleBasedHostelAllocation.exe
+C:\B Programmer\C#\RuleBasedHostelAllocation\RuleBasedHostelAllocation\bin\Debug\RuleBasedHostelAllocation.pdb
+C:\B Programmer\C#\RuleBasedHostelAllocation\RuleBasedHostelAllocation\obj\x86\Debug\RuleBasedHostelAllocation.exe
+C:\B Programmer\C#\RuleBasedHostelAllocation\RuleBasedHostelAllocation\obj\x86\Debug\RuleBasedHostelAllocation.pdb
